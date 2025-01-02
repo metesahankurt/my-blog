@@ -1,0 +1,24 @@
+[
+  {
+    "_id": {
+      "$oid": "63a3c3f735bfcb62cd8ab34a"
+    },
+    "title": "Mitolojinin tanımı",
+    "imgURL": "/public/img/background/content-1.jpg",
+    "content": "Mitoloji, bir toplumun tanrılar, kahramanlar ve doğaüstü olaylarla ilgili inançlarını ve hikayelerini anlatan bir bilgi birikimidir. İnsanların evrenin yaratılışı, yaşamın anlamı ve doğa olaylarını açıklama çabalarını yansıtır.",
+    "author": "Mükrime Gizem Yücesoy",
+    "date": "26.11.2024",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "63a3c3f735bfcb62cd8ab34b"
+    },
+    "title": "Zeus",
+    "imgURL": "/public/img/background/content-2.jpg",
+    "content": "Zeus, Yunan mitolojisinde gökyüzü ve gök gürültüsü tanrısı, aynı zamanda tanrıların kralıdır. Olimpos Dağı’ndaki en güçlü tanrı olarak adalet ve düzeni sağlar. Babası Kronos’u devirdikten sonra dünyayı kardeşleri Hades ve Poseidon ile paylaşmıştır. Zeus’un sembolleri şimşek, kartal ve meşe ağacıdır.",
+    "author": "Mükrime Gizem Yücesoy",
+    "date": "26.11.2024",
+    "__v": 0
+  }
+]
